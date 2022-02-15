@@ -4,6 +4,8 @@ node_modules
 # .v4p backup files
 *~.xml
 
+gitignore
+
 # Vue generate
 dist
 
